@@ -12,7 +12,6 @@ Our main aim is to help automate schools especially in Africa and the world at l
 
 
 <h1 style="color:#551A8B">wizGrade  Features</h1>
-<center><img src="https://www.wizgrade.com/images/features.jpg"height="340" width="500"></center>
 
 <ol> 
 <li>100% web, mobile, tablet responsive screen & wizGrade Themes</li>
@@ -78,7 +77,4 @@ For a live demo <a href="https://www.k12.wizgrade.com">Click Here</a>
 <p>NOTE : You require PHP Version greater than <b>5</b> or below <b>7.0.8</b> for this script to work good. However, we are upgrading latest PHP version soon !</p>
        
 <h1 style="color:#551A8B !important;">Donate</h1>
-If you liked wizGrade and want to donate please <a href="https://www.wizgrade.com/?q=i#donate">Click Here</a>
-
-<h1 style="color:#551A8B !important;">Our Website</h1>
-<a href="https://www.wizgrade.com">Click Here</a>
+If you liked wizGrade and want to donate please <a href="https://www.buymeacoffee.com/ascii">Click Here</a>
