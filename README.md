@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # wizGrade School Management System 
 
 <b>wizGrade</b> is Best Rated Open Source School Management System for Nursery, Primary and Secondary (K-12) School, Universities, Polytechnics, College of Educations, Awarding Institute e.t.c.
